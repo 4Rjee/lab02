@@ -139,7 +139,7 @@ $ git push origin master
 
 2. Выполните инструкцию по созданию первого коммита на странице репозитория, созданного на предыдещем шаге.
     ```bash
-    $ echo "# Homework-Lab02" >> README.md
+    $ echo "# hw2" >> README.md
     $ git init .
     $ git add README.md
     $ git commit -m"added README"
